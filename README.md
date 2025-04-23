@@ -68,6 +68,14 @@ To automatically generate email content using the **Gemini AI** (Google's conver
 ![node](https://github.com/user-attachments/assets/81ceb373-967e-42b9-a2c5-f395eb714186)
 
 
+![mailn8n](https://github.com/user-attachments/assets/27263876-4505-4763-8d50-67fe1746380e)
+
+
+### 6.Demo vedio Drive link
+
+https://drive.google.com/file/d/1uiwAfGe3FLCS6iRG4b9yZIj3t5JmQ2Kd/view?usp=drivesdk
+
+
 ## 🔐 Security Note
 
 > Ensure all sensitive data like API keys and email credentials are securely stored using **n8n’s credentials system**.  
