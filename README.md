@@ -59,6 +59,7 @@ To automatically generate email content using the **Gemini AI** (Google's conver
 - Click **“Activate”** to start using it
 - Trigger it manually or let it run on schedule or webhook
 
+![Uploading automate email.png…]()
 
 ## 🔐 Security Note
 
