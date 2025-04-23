@@ -65,10 +65,11 @@ To automatically generate email content using the **Gemini AI** (Google's conver
 ![automate email](https://github.com/user-attachments/assets/9c477835-7580-4a00-a175-5a697f75cd18)
 
 
-![node](https://github.com/user-attachments/assets/81ceb373-967e-42b9-a2c5-f395eb714186)
+![2025-04-23 (4)](https://github.com/user-attachments/assets/f220bc42-3238-4efb-a18a-b7bb856b3c3e)
 
 
-![mailn8n](https://github.com/user-attachments/assets/27263876-4505-4763-8d50-67fe1746380e)
+![email2](https://github.com/user-attachments/assets/bc11aae7-9434-4779-83aa-6dfb78a8586e)
+
 
 
 ### 6.Demo vedio Drive link
